@@ -1,1 +1,1 @@
-# wsl-ssh
+# wsl-script
